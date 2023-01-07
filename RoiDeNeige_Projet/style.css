@@ -1,0 +1,56 @@
+
+#DivJeu {
+    margin: auto;
+    width: 800px;
+     border:2px gold solid; 
+	  border-width:6px; 
+	 margin-top:10px; 
+}
+body
+{
+	background:url("medias/background 1.jpg")fixed no-repeat top right;
+	background-size:1450px;
+	 background-position-x:center; 
+	 background-position-y:center; 
+	
+}
+h1
+{
+	margin:auto;
+	width:800px;
+      border:2px Navy solid;
+	  text-align:center;
+	  background-color:PaleTurquoise;
+	  border-width:5px;
+	  border-radius:0px;
+	  color:black;
+	  margin-bottom:10px;
+}
+nav li {
+    padding:0px;
+    margin:0px;
+    list-style-type:none;
+    display:inline-block;
+    text-align:right;	
+	margin-top:25px;
+	width:125px;
+	height:40px;
+	font-weight:bold;
+}
+nav li  a {
+	text-decoration:none;
+	color:black;
+	font-family:helvetica,arial,verdana,sans-serif;
+	
+}
+nav li :hover{
+	background-color:MediumSpringGreen;
+}
+nav{
+	margin:auto;
+	width:550px;
+	border:2px black solid;
+	background-color:Teal;
+	/* border-width:5px; */
+	/* border-radius:80px; */
+}
